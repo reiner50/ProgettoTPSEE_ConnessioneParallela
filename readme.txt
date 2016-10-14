@@ -2,5 +2,5 @@ Scrivete OK se riuscite a modificare:
 
 -Emanuele Torre: OK
 -Matteo Di Cesare:
--Reiner Romeo:
+-Reiner Romeo: Ok
 -Ergys Gjoka:
